@@ -6,7 +6,7 @@ apt-get update & apt-get upgrade -y
 
 Depois rode o comando abaixo
 
-sudo apt install -y git && git clone https://github.com/Villela-Tech/instalador.git && sudo chmod -R 777 instaladorwhaticketsaas_plw_2025 && cd instaladorwhaticketsaas_plw_2025 && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/Villela-Tech/instalador.git && sudo chmod -R 777 instalador && cd instalador && sudo ./install_primaria
 
 ## Requisitos
 
