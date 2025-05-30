@@ -6,7 +6,8 @@ apt-get update & apt-get upgrade -y
 
 Depois rode o comando abaixo
 
-sudo apt install -y git && git clone https://github.com/Villela-Tech/instalador.git && sudo chmod -R 777 instalador && cd instalador && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/Villela-Tech/instalador.git && sudo chmod -R 777 instalador && chmod +x install_primaria
+ && cd instalador && sudo ./install_primaria
 
 ## Requisitos
 
