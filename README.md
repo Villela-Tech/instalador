@@ -1,14 +1,12 @@
 # Instalador Whaticket SaaS
 
-Caso tenha queira comprar o projeto. Contato zap: (94) 99110-7334
-
 Antes de iniciar a instalação, digite esse código abaixo no terminal da sua VPS.
 
 apt-get update & apt-get upgrade -y
 
 Depois rode o comando abaixo
 
-sudo apt install -y git && git clone https://github.com/experctssistema/instaladorwhaticketsaas_plw_2025.git && sudo chmod -R 777 instaladorwhaticketsaas_plw_2025 && cd instaladorwhaticketsaas_plw_2025 && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/Villela-Tech/instalador.git && sudo chmod -R 777 instaladorwhaticketsaas_plw_2025 && cd instaladorwhaticketsaas_plw_2025 && sudo ./install_primaria
 
 ## Requisitos
 
